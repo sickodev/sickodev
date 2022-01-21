@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sickodev
 - 👀 I’m interested in Java, C++, Python, Unity and Unreal
 - 🌱 I’m currently learning Unity and Unreal
-- 💞️ I’m looking to collaborate on Computer Science Research and Software Development
+- 💞️ I’m looking to collaborate on Game Projects and Website Development Projects.
 - 📫 How to reach me ? Contact me on twitter on @kalyan_bishwa
 
 <!---

@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Kumar Bishwa Kalyan</h1>
-<h3 align="center">Computer Science and Game Development aficionado</h3>
+<h3 align="center">Software and Game Development aficionado</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sickodev&label=Profile%20views&color=0e75b6&style=flat" alt="sickodev" /> </p>
 
-- 👨🏽‍💻 I’m currently learning **and growing my skillset in Unity Engine, Unreal Engine and, Data Structures and Algorithms.**
+- 👨🏽‍💻 I’m currently learning **and growing my skillset in Unity Engine, Unreal Engine and, Data Structures and Algorithms.** Building cool stuff on **Next.js, TypeScript and Golang.**
 
-- 🤝 I’m looking to collaborate on **Opensource Projects and Game Jam Projects**
+- 🤝 I’m looking to collaborate on **Web Development Projects and Game Jam Projects**
 
 - 📫 How to reach me **kalyanbishwa03@gmail.com**
 
@@ -18,7 +18,7 @@
 
 
 ## 🔗 Social Handle
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sickodev)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kumaarrr.tech)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/kalyanbishwa)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kalyan_bishwa)
 <!-- [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=916370132020&text&app_absent=0) -->
